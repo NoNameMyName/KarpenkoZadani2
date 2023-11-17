@@ -90,6 +90,8 @@ public class WorkWithLists {
             }
         }
 
+        int add;
+
         ///////////////////////////
         System.out.println("-------------------\nEdding in front of list\n-------------------");
         ///////////////////////////
